@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Shopping list v1.0</string>
+    <string name="buttonAdicionar" translatable="false">Botão de adicionar itens.</string>
+    <string name="imagem_do_item" translatable="false">Imagem do Item</string>
+    <string name="textview" translatable="false">TextView</string>
+    <string name="x" translatable="false">X</string>
 </resources>
